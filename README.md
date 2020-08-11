@@ -21,10 +21,9 @@ This notebook contains my solution for the data challenge for the position *Data
       * Optimizing Hyperparameters for most Promising Classification Models
       * Evaluation
 
-### Prerequisites
+## Prerequisites
 
-All libraries imported at the beginning must be installed to run the code.
-
+```
+All libraries imported at the beginning must be installed to be able to run the code.
 ```
 For the pre-trained word embeddings download the [fastText word vectors](https://fasttext.cc/docs/en/english-vectors.html) - 2 million word vectors trained on Common Crawl
-```
