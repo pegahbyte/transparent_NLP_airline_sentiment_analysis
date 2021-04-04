@@ -1,6 +1,6 @@
 # US airline tweets - Sentiment Analysis
 
-This notebook contains a sentiment analysis with an emphasis on making the NLP transparent. The "Behind the Code" sections show examples to create an understanding for the underlying transformations. This way, an intuition for the feature engineering process can be obtained.
+This notebook contains a sentiment analysis for [this Kaggle challenge](https://www.kaggle.com/crowdflower/twitter-airline-sentiment) with an emphasis on making the NLP transparent. The "Behind the Code" sections show examples to create an understanding for the underlying transformations. This way, an intuition for the feature engineering process can be obtained.
 
 
 ## Content
