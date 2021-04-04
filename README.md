@@ -1,6 +1,6 @@
 # US airline tweets - Sentiment Analysis
 
-This notebook contains my solution for the data challenge for the position *Data Scientist für Politik, Technologie und Gesellschaft*.
+This notebook contains a sentiment analysis with an emphasis on making the NLP transparent. The "Behind the Code" sections show examples to create an understanding for the underlying transformations. This way, an intuition for the feature engineering process can be obtained.
 
 
 ## Content
